@@ -8,5 +8,7 @@ Simple starter project which can be used to kickstart dev. Copy paste this proje
 Use The following commands to run this project along with tests.
 
 ```bash
+source ./venv/Scripts/activate
 python -m pytest
+deactivate
 ```
